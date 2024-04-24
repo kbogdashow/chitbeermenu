@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cnx_display_1s",
+  "info": {
+    "singularName": "cnx-display-1",
+    "pluralName": "cnx-display-1s",
+    "displayName": "CNX Display-1"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "no": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "degree": {
+      "type": "string"
+    },
+    "price": {
+      "type": "string"
+    }
+  }
+}
